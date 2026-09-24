@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-23T08:21:25.985193+00:00",
-  "totalJobs": 94,
+  "lastUpdated": "2026-09-24T08:13:03.640238+00:00",
+  "totalJobs": 93,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -8,6 +8,27 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "anth-5382518008",
+      "company": "Anthropic",
+      "position": "Applied AI Architect, Public Sector ",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "As an Applied AI team member at Anthropic, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping systems integrators, startups, and other GovTech companies understand the value of Claude and paint the vision on how they can successfully integrate and deploy...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+      "postedAt": "2026-09-23T13:17:43-04:00",
+      "tags": [
+        "Python",
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
     {
       "id": "anth-5428790008",
       "company": "Anthropic",
@@ -109,26 +130,6 @@
         "GraphQL"
       ],
       "companyIcon": ""
-    },
-    {
-      "id": "anth-5425724008",
-      "company": "Anthropic",
-      "position": "Associate Solutions Architect",
-      "location": "London, UK",
-      "remote": false,
-      "salary": "",
-      "description": "We're looking for an Associate Solutions Architect to join our Applied AI team and help drive the adoption of Claude Code across our enterprise customers. As an Associate SA specializing in Claude Code, you'll be the technical bridge between our cutting-edge AI coding assistant and the engineering...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-      "postedAt": "2026-09-16T12:20:01-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "anth-5421566008",
@@ -625,27 +626,6 @@
       "source": "Anthropic",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390894008",
       "postedAt": "2026-08-20T21:55:46-04:00",
-      "tags": [
-        "Rust",
-        "Go",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5390890008",
-      "company": "Anthropic",
-      "position": "Manager Applied AI Architecture, Healthcare & Life Sciences",
-      "location": "New York City, NY; San Francisco, CA | New York City, NY",
-      "remote": false,
-      "salary": "",
-      "description": "As manager of the Healthcare and Life Sciences Solutions Architect team within Applied AI at Anthropic, you will drive the adoption of frontier AI in partnership with the rest of the go to market organization. We work with customers that include companies across payers, providers, life sciences,...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390890008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5390890008",
-      "postedAt": "2026-08-20T21:53:08-04:00",
       "tags": [
         "Rust",
         "Go",
